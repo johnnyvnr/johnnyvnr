@@ -16,7 +16,8 @@ Today I know the basics of *Front-End Dev*, *Back End Dev*, *GUI Software Develo
 ### I'm studying right now:
 
 ⚛️ I'm focused in improving my abilities with ReactJS and React Native;
-🎮 I also study about the development of a tool to rom hacking NDS Games;
+
+🎮 I also study about the development of a tool to rom hack NDS Games;
 
 ### My repositories use mostly this langs:
 
