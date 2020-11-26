@@ -2,7 +2,7 @@
 
 My name is João Victor, but people call me *Johnny*! I'm passionate by technology and computation and that made me decide to switch my career and start developing. Today I'm focused in *Python* and *Web Development!*
 
-[![Johnny's github stats](https://github-readme-stats.vercel.app/api?username=johnnyvnr&show_icons=true&theme=radical)
+![Johnny's github stats](https://github-readme-stats.vercel.app/api?username=johnnyvnr&show_icons=true&theme=radical)
 
 Today I know the basics of *Front-End Dev*, *Back End Dev*, *GUI Software Development*, *Databases*, and *UI/UX Design*.
 
