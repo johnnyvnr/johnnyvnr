@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**johnnyvnr/johnnyvnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Welcome to my GitHub 
 
 My name is João Victor, but people call me *Johnny*! I'm passionate by technology and computation and that made me decide to switch my career and start developing. Today I'm focused in *Python* and *Web Development!*
