@@ -9,13 +9,17 @@ Today I know the basics of *Front-End Dev*, *Back End Dev*, *GUI Software Develo
 
 #### Some of my knowledge: 
 ### I'm great at this: 
-<code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code> 
+
 <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></code> 
 <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code> 
 <code><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></code>
 <code><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
+
+
+### I'm good at this: 
 <code><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code> 
+<code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code> 
 
 ### I'm learning, but I'm good at this:
 <code><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code> 
@@ -33,12 +37,10 @@ AWS Services, PHP, Ruby, Angular and Next.JS.
 
 
 
-
 ### I'm studying right now:
 
 ⚛️ I'm focused in improving my abilities with ReactJS and React Native;
 
-🎮 I also study about the development of a tool to rom hack NDS Games;
 
 ### My repositories use mostly this langs:
 
